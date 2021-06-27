@@ -3,9 +3,9 @@ package composites
 import (
 	_ "fmt"
 
-	b3 "github.com/magicsea/behavior3go"
-	_ "github.com/magicsea/behavior3go/config"
-	. "github.com/magicsea/behavior3go/core"
+	b3 "github.com/liyakai/behavior3go"
+	_ "github.com/liyakai/behavior3go/config"
+	. "github.com/liyakai/behavior3go/core"
 )
 
 type Sequence struct {

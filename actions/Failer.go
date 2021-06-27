@@ -1,8 +1,8 @@
 package actions
 
 import (
-	b3 "github.com/magicsea/behavior3go"
-	. "github.com/magicsea/behavior3go/core"
+	b3 "github.com/liyakai/behavior3go"
+	. "github.com/liyakai/behavior3go/core"
 )
 
 type Failer struct {
